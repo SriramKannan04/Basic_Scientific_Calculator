@@ -65,7 +65,7 @@ function App()
     e.preventDefault()
     var a = inputValue;
     var b = a * a;
-    alert("testing");
+    alert("You can get square value of " + a + " but you can't perform arithmetic operations and am working on it");
     setOutputValue(b);
   }
 
@@ -74,7 +74,7 @@ function App()
     e.preventDefault()
     var a = inputValue;
     var b = a * a * a;
-    alert("testing");
+    alert("You can get cube value of " + a + " but you can't perform arithmetic operations and am working on it");
     setOutputValue(b);
   }
 
