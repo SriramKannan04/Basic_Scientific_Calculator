@@ -11,7 +11,7 @@ function App()
     e.preventDefault();
     var a = inputValue;
     var b = Math.sin(a * Math.PI / 180);
-    alert("You can see the value of Sin in Degree but you cannot perform arithmetic operations with multiple Sin value");
+    alert("You can see the value of Sin in Degree but you cannot perform arithmetic operations with multiple Sin value so, am working on it");
     setOutputValue(b);
   }
 
@@ -20,7 +20,7 @@ function App()
     e.preventDefault();
     var a = inputValue;
     var b = Math.cos(a * Math.PI / 180);
-    alert("You can see the value of Cos in Degree but you cannot perform arithmetic operations with multiple Cos value");
+    alert("You can see the value of Cos in Degree but you cannot perform arithmetic operations with multiple Cos value so, am working on it");
     setOutputValue(b);
   }
 
@@ -29,7 +29,7 @@ function App()
     e.preventDefault();
     var a = inputValue;
     var b = Math.tan(a * Math.PI / 180);
-    alert("You can see the value of Tan in Degree but you cannot perform arithmetic operations with multiple Tan value");
+    alert("You can see the value of Tan in Degree but you cannot perform arithmetic operations with multiple Tan value so, am working on it");
     setOutputValue(b);
   }
 
@@ -38,7 +38,7 @@ function App()
     e.preventDefault();
     var a = inputValue;
     var b = Math.tan(a);
-    alert("You can see the value of Tan in Radian but you cannot perform arithmetic operations with multiple Tan value");
+    alert("You can see the value of Tan in Radian but you cannot perform arithmetic operations with multiple Tan value so, am working on it");
     setOutputValue(b);
   }
 
@@ -47,7 +47,7 @@ function App()
     e.preventDefault();
     var a = inputValue;
     var b = Math.cos(a);
-    alert("You can see the value of Cos in Radian but you cannot perform arithmetic operations with multiple Cos value");
+    alert("You can see the value of Cos in Radian but you cannot perform arithmetic operations with multiple Cos value so, am working on it");
     setOutputValue(b);
   }
 
@@ -56,7 +56,7 @@ function App()
     e.preventDefault();
     var a = inputValue;
     var b = Math.sin(a);
-    alert("You can see the value of Sin in Radian but you cannot perform arithmetic operations with multiple Sin value");
+    alert("You can see the value of Sin in Radian but you cannot perform arithmetic operations with multiple Sin value so, am working on it");
     setOutputValue(b);
   }
 
